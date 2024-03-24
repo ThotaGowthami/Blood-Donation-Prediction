@@ -1,0 +1,10 @@
+Jupyter Notebook
+
+pip install tpot
+
+change 1st line of the code if you are using the windows
+
+"
+!type "C:\Users\Qurtoba\Downloads\Give-Life-Predict-Blood-Donations-master\Give-Life-Predict-Blood-Donations-master\datasets\transfusion.data" | more +1
+
+"
